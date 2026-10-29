@@ -2,13 +2,18 @@
 
 A lightweight, zero-dependency web application to search for movies and find global free (ad-supported) and subscription streaming availability across 100+ countries, with instant CSV export.
 
+🌐 **Live Web App**: [https://azurebamboo.github.io/freestream-app/](https://azurebamboo.github.io/freestream-app/)
+
 ---
 
 ## 🚀 How to Run
 
-### Option 1: Just Double-Click (Zero Install)
-You don't need Python, Node.js, or any software installed:
-* Simply double-click **`index.html`** to open it in any web browser (Chrome, Edge, Firefox, Safari).
+### Option 1: Open the Live Web App (Zero Install)
+Anyone can use the app instantly without installing anything:
+* Visit **[https://azurebamboo.github.io/freestream-app/](https://azurebamboo.github.io/freestream-app/)** on any phone, tablet, or PC.
+
+### Option 2: Run Locally (Offline / Double-Click)
+* Download or clone this repository and double-click **`index.html`** in any web browser (Chrome, Edge, Firefox, Safari).
 
 ### Option 2: Run a Local Static Server (Optional)
 If you prefer running a local server:
